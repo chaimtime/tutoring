@@ -1,0 +1,27 @@
+[
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/cohenh/",
+    "image": "images/social/linkedin.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/chaimtime",
+    "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "Instagram",
+    "link": "https://instagram.com/chaimtime",
+    "image": "images/social/instagram.svg"
+  },
+  {
+    "name": "Short Explanations",
+    "link": "https://shortexplanations.com",
+    "image": "images/social/podcast.svg"
+  },
+  {
+    "name": "Keybase",
+    "link": "https://keybase.io/chaimcohen",
+    "image": "images/social/keybase.svg"
+  }
+]

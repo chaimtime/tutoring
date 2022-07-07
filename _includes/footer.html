@@ -1,0 +1,21 @@
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <h2 class="footer-title">{{site.title}}</h2>
+          <ul>
+            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
+            <!-- remove this if you want a footer, then edit menus.yml-->
+            <!--- {% for item in footermenu %}
+            <li class="{% if item.url == page.url %}active{% endif %}">
+              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+            </li>
+            {% endfor %}
+            --->
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
