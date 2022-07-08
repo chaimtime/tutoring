@@ -43,3 +43,6 @@ I also host a podcast on cyber security. [Short Explanations](https://shortexpla
 I currently help organize the [Cryptography and Privacy Village](https://cryptovillage.org) found at DEFCON.<br>
 I am the chairman of the public information committee for my town.
 
+# Ethics
+I cannot teach any of my current students. If you are a current student, ask for help. You get it for free.
+
