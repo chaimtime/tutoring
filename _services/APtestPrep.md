@@ -29,13 +29,6 @@ Each test contains 2 parts:
 
 
 
-# Individual Tests
-
-I have practice problems for individual units, both multiple choice and open ended. 
-
-Please understand that each teacher teaches differently. Last minute test prep without understanding teacher requirements is very challenging. 
-
-
 # Disclaimer
 
 AP tests are secure material monitored by the CollegeBoard. I can only show released tests to those with an AP account. I do have some released practice tests that can be shared.
