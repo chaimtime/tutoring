@@ -12,7 +12,7 @@ As of July 2022
 $100/hour via remote conferencing. In person has an additional fee.
 
 ### Test Prep
-Each complete test is $300 for as long as needed, paid in advance.
+Each test takes about 3 hours to do. 
 
 ### Payment
 I expect payment within 24 hours of a session<br>
