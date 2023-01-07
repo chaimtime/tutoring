@@ -10,6 +10,11 @@
     "image": "images/social/twitter.svg"
   },
   {
+    "name": "Mastodon",
+    "link": "https://infosec.exchange/@chaimtime",
+    "image": "images/social/mastodon.svg"
+  }
+  {
     "name": "Instagram",
     "link": "https://instagram.com/chaimtime",
     "image": "images/social/instagram.svg"
