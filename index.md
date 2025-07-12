@@ -2,7 +2,7 @@
 title: Chaim Time Tutoring
 layout: home
 description: Chaim Time Tutoring
-intro_image: "images/haimsuit.jpeg"
+intro_image: "images/haimsuit.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: false
