@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-My name is Haim Cohen, and I've been a public school teacher since 2005. Since 2011, I've been teaching at East Brunswick High School growing the computer science department. The department is now 3 teachers strong. One of my guiding principles is that I believe that all students can be successful at computer science. In our program we have increased the number of Women and BIPOC students to almost 50%.
+My name is Dr. Haim Cohen, and I've been a public school teacher since 2005. Since 2011, I've been teaching at East Brunswick High School growing the computer science department. The department is now 3 teachers strong. One of my guiding principles is that I believe that all students can be successful at computer science. 
 
 # Courses Taught
 
@@ -27,20 +27,26 @@ I have written all the curriculums (AP Audit Approved), and are currently teachi
 
 # Credentials:
 
+NCWIT Regional Award Winner  - 2024 <br>
 NCWIT Regional Award Winner Honorable Mention - 2021
 
+American College of Education – Ed.D. Instructional Technology – 2025 <br>
+Rider University - M.Ed. Educational Leadership - 2009 <br>  
 Rutgers University - B.A. Computer Science - 2005 <br>
 Rutgers University - B.S. Statistics - 2005  <br>
-Rider University - M.Ed. Educational Leadership - 2009 <br>  
 
+
+NJ Certified Teacher in Computer Science<br>
 NJ Certified Teacher in Mathematics<br>
 NJ Supervisors Certificate<br>
-Passed the Security+ <br>
+Security+ <br>
+Tech+ <br>
+
 Eagle Scout
 
 # Hobbies
 I also host a podcast on cyber security. [Short Explanations](https://shortexplanations.com)<br>
-I currently help organize the [Cryptography and Privacy Village](https://cryptovillage.org) found at DEFCON.<br>
+I currently am the treasurer of the [Cryptography and Privacy Village](https://cryptovillage.org) found at DEFCON.<br>
 I am the chairman of the public information committee for my town.
 
 # Ethics

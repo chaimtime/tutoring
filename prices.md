@@ -6,10 +6,10 @@ permalink: "/prices/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
-As of July 2022
+As of October 2025
 
 ### General Help
-$100/hour via remote conferencing. In person has an additional fee.
+$120/hour via remote conferencing. In person has an additional fee.
 
 ### Test Prep
 Each test takes about 3 hours to do. 
