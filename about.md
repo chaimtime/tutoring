@@ -34,10 +34,9 @@ American College of Education – Ed.D. Instructional Technology – 2025 <br>
 Rider University - M.Ed. Educational Leadership - 2009 <br>  
 Rutgers University - B.A. Computer Science - 2005 <br>
 Rutgers University - B.S. Statistics - 2005  <br>
-
-
 NJ Certified Teacher in Computer Science<br>
 NJ Certified Teacher in Mathematics<br>
+NJ Principals Certificate<br>
 NJ Supervisors Certificate<br>
 Security+ <br>
 Tech+ <br>

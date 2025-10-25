@@ -2,8 +2,8 @@
 title: Chaim Time Tutoring
 layout: home
 description: Chaim Time Tutoring
-intro_image: "images/haimcupcake.jpg"
-intro_image_absolute: true
+intro_image: "images/haimsuitcircle.png"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: false
 ---
